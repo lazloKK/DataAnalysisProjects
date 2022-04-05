@@ -1,1 +1,1 @@
-Complex SQL queries to turn data into insights
+Complex SQL queries to gain insights from data stored in relational databases
